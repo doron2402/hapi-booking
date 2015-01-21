@@ -1,0 +1,43 @@
+{
+  "name": "booking-flow-web",
+  "version": "1.0.0",
+  "description": "booking flow web using handlebars to render views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/hapi-booking.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "Doron Segal, Eyas Ranjous, Rodrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/hapi-booking/issues"
+  },
+  "homepage": "https://github.com/doron2402/hapi-booking",
+  "dependencies": {
+    "bluebird": "^2.7.1",
+    "boom": "^2.6.1",
+    "handlebars": "^2.0.0",
+    "hapi": "~8.1.0",
+    "joi": "^5.0.1",
+    "moment": "^2.8.4",
+    "superagent": "^0.21.0",
+    "superagent-bluebird-promise": "^0.6.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-available-tasks": "^0.5.4",
+    "grunt-contrib-jshint": "^0.10.0",
+    "lab": "^5.0.2",
+    "load-grunt-config": "^0.16.0",
+    "should": "^4.3.0"
+  },
+  "peerDependencies": {
+    "grunt-cli": "0.1.13"
+  }
+}
