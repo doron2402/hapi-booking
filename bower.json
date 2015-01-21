@@ -1,0 +1,31 @@
+{
+  "name": "search-node",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/opentable/search-result-node",
+  "description": "search-result-node",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "opentable",
+    "hapijs"
+  ],
+  "authors": [
+    "Doron Segal",
+    "Matt Blair"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.0"
+  }
+}
