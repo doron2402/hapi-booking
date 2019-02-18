@@ -22,7 +22,7 @@
   "dependencies": {
     "bluebird": "^2.7.1",
     "boom": "^2.6.1",
-    "handlebars": "^2.0.0",
+    "handlebars": "^4.0.13",
     "hapi": "~8.1.0",
     "joi": "^5.0.1",
     "moment": "^2.8.4",
